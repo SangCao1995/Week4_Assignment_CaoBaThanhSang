@@ -1,6 +1,5 @@
 # Week4_Assignment_CaoBaThanhSang
 Accomplishments
-
 User can see a list of their todos.
 User can toggle a todo's status of active/done.
 User can see a different color todo background based on the todo's status.
